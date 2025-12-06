@@ -12,6 +12,11 @@ $books = $conn->query("SELECT * FROM books ORDER BY id DESC");
 <html>
 <head>
     <title>Book List</title>
+    <meta charset="UTF-8">
+    <meta name="author" content="Team BookVerse - Mubaraq Yusuf">
+    <meta name="description" content="BookVerse Library Management System">
+    <meta name="keywords" content="library, bookverse, php, mysql, student project">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
 
 <style>
@@ -101,3 +106,4 @@ $books = $conn->query("SELECT * FROM books ORDER BY id DESC");
 </div>
 </body>
 </html>
+
