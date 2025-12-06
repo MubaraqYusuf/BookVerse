@@ -108,7 +108,7 @@ BookVerse/
 
 1. Download or clone the project:
 ```
-git clone https://github.com/yourrepo/bookverse.git
+git clone https://github.com/MubaraqYusuf/bookverse.git
 ```
 
 2. Move to your server directory:
@@ -153,12 +153,12 @@ Password: user123
 ---
 
 ## 📊 ER Diagram
-(Insert ER diagram image here)
+<img width="663" height="532" alt="Schema" src="https://github.com/user-attachments/assets/2403fdfe-721b-4c64-9766-747593503866" />
 
 ---
 
 ## 🗺 Sitemap
-(Insert sitemap image here)
+<img width="2400" height="2264" alt="Sitemap" src="https://github.com/user-attachments/assets/a51ccf9c-e526-4b52-adfd-dcb6119ed185" />
 
 ---
 
