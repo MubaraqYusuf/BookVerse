@@ -10,6 +10,10 @@ if (!isset($_SESSION['role']) || $_SESSION['role'] !== 'admin') {
 <head>
     <title>Admin Dashboard - BookVerse</title>
     <meta charset="UTF-8">
+    <meta name="author" content="Team BookVerse - Mubaraq Yusuf">
+    <meta name="description" content="BookVerse Library Management System">
+    <meta name="keywords" content="library, bookverse, php, mysql, student project">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
 
 <style>
@@ -103,3 +107,4 @@ if (!isset($_SESSION['role']) || $_SESSION['role'] !== 'admin') {
 
 </body>
 </html>
+
