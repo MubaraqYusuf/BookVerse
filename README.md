@@ -162,7 +162,7 @@ Password: user123
 
 ---
 
-## 🤝 Contributors
+## Author 
 - **Mubaraq Yusuf**  
 
 ---
