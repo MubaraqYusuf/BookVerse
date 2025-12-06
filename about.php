@@ -4,7 +4,7 @@ session_start();
 <!DOCTYPE html>
 <html>
 <head>
-    <title>About BookVerse - Authors & Creators</title>
+    <title>About BookVerse - Author & Creator</title>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css">
 
@@ -92,10 +92,9 @@ session_start();
 
     <!-- PROJECT CREATORS -->
     <div class="author-card">
-        <div class="author-name">Creators of BookVerse</div>
+        <div class="author-name">Creator of BookVerse</div>
         <p class="author-desc">
-            BookVerse Library Management System was created by <b>Mubaraq Yusuf</b> and 
-            <b>Miškinis Dovydas</b> as a modern database-driven application designed to simplify
+            BookVerse Library Management System was created by <b>Mubaraq Yusuf</b> as a modern database-driven application designed to simplify
             library operations, borrowing, authentication, and reporting.
             <br><br>
             This system highlights real-world development principles such as CRUD functionality,
@@ -114,25 +113,13 @@ session_start();
         </p>
     </div>
 
-    <!-- AUTHOR 2 -->
-    <div class="author-card">
-        <div class="author-name">Miškinis Dovydas</div>
-        <p class="author-desc">
-            A cybersecurity student and aspiring web developer from Vilnius University,
-            has a passion for creating secure and efficient web applications
-            using modern technologies.
-            <br><br>
-            Contact: dovydas.miskinis@knf.stud.vu.lt
-            
-        </p>
-    </div>
-
 </div>
 
 <!-- FOOTER -->
 <p style="text-align:center;margin-top:20px;color:#cbd5e1;font-size:13px;">
-    © <?php echo date("Y"); ?> BookVerse Library • Created by <b>Mubaraq Yusuf & Miškinis Dovydas</b>
+    © <?php echo date("Y"); ?> BookVerse Library • Created by <b>Mubaraq Yusuf</b>
 </p>
 
 </body>
 </html>
+
