@@ -164,7 +164,6 @@ Password: user123
 
 ## 🤝 Contributors
 - **Mubaraq Yusuf**  
-- **Miškinis Dovydas**
 
 ---
 
