@@ -26,7 +26,6 @@ A modern PHP & MySQL web application for managing books, users, borrowing, and a
 - [🧪 Test Scenarios](#-test-scenarios)
 - [📊 ER Diagram](#-er-diagram)
 - [🗺 Sitemap](#-sitemap)
-- [🤝 Contributors](#-contributors)
 - [📝 License](#-license)
 
 ---
@@ -153,6 +152,11 @@ Password: user123
 ---
 
 ## 📷 Sreenshots
+<img width="1234" height="893" alt="Screenshot 2026-01-22 214441" src="https://github.com/user-attachments/assets/b0a9c8fc-c380-4700-9e55-a87d2701110d" />
+<img width="762" height="535" alt="Screenshot 2026-01-22 214513" src="https://github.com/user-attachments/assets/4fc4ddfe-c379-4cbd-b3fc-43f60235b609" />
+<img width="1229" height="888" alt="Screenshot 2026-01-22 214735" src="https://github.com/user-attachments/assets/ff193b15-ed25-4c2d-bd11-7f551afa36f4" />
+<img width="601" height="438" alt="Screenshot 2026-01-22 214818" src="https://github.com/user-attachments/assets/0bd6f822-a167-4165-b5fe-535f33852683" />
+<img width="1227" height="585" alt="Screenshot 2026-01-22 214836" src="https://github.com/user-attachments/assets/b2ecaf4d-565b-4e54-aa1c-a268dc523861" />
 
 ---
 
