@@ -152,6 +152,10 @@ Password: user123
 
 ---
 
+## 📷 Sreenshots
+
+---
+
 ## 📊 ER Diagram
 <img width="663" height="532" alt="Schema" src="https://github.com/user-attachments/assets/2403fdfe-721b-4c64-9766-747593503866" />
 
